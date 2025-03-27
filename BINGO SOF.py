@@ -5,13 +5,13 @@ from tkinter import ttk
 
 def generate_bingo_board():
     words = [
-        "Freindly Player", "Aliance Betrail", "Get Krakened",
+        "Friendly Player", "Alliance Betrail", "Get Krakened",
         "Turn in a Chest of Sorrow", "Turn in a Chest of Rage",
-        "Kill an Ancint Skelletion", "Finish A Legend of the Vail",
+        "Kill an Ancient Skelletion", "Finish A Legend of the Vail",
         "PVP Curse", "Sunken Sorrow Curse", "Another Crew in the Devals Roar",
         "Find a Breath of the Sea", "Baretrap a Player",
-        "Tucker", "Turn in Ashen Tresure (Any)", "Gold Curse", "Tall Tail Crew",
-        "Burning Blade", "Skelletion Ship", "Discover a Mermaid Gem",
+        "Tucker", "Turn in Ashen Treasure (Any)", "Gold Curse", "Tall Tail Crew",
+        "Burning Blade", "Skeleton Ship", "Discover a Mermaid Gem",
         "Steal a Chest of Legends", "Firebomb an Enemy", "Give Gift", "Receve Gift",
         "Be in the Storm", "Full Gallion", "Running Reaper",
         "Solo Sloop", "Find A Kings Chest", "Find a Horn of Fair Wind",
